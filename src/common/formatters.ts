@@ -1,5 +1,5 @@
 /**
- * Output formatting utilities for messages and runs.
+ * Output formatting utilities for messages and run.
  */
 
 /**
