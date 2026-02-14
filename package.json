@@ -1,6 +1,6 @@
 {
   "name": "langsmith-mcp-server",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "LangSmith MCP Server - TypeScript implementation",
   "type": "module",
   "main": "./dist/index.js",
